@@ -26,6 +26,10 @@ table tbody tr td {
 	margin-bottom: 20px;
 }
 
+.course-clicks:hover {
+	cursor: pointer;
+}
+
 /* DISCIPLINA 2*/
 body {
 	background-color: #D9F2DF;
